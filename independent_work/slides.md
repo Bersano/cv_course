@@ -5,6 +5,8 @@ slideNumber: true
 ## Самостоятельная работа
 (до 29.11.2026 включительно)
 
+email: [cv_course_itmo_2026@outlook.com](mailto:cv_course_itmo_2026@outlook.com)
+
 ---
 
 ## Доменная область
