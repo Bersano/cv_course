@@ -2,6 +2,7 @@
 
 краткая выжимка:
  - срок до 29.11.2026 включительно
+ - email: [cv_course_itmo_2026@outlook.com](mailto:cv_course_itmo_2026@outlook.com)
  - все основная информация по кейсу в slides.md
  - пример формирования результата вашей работы в TEMPLATE_independent_work_result.ipynb на каждый куб, т.е. в финале 2 файла .ipynd + 2 файла моделей для инференса
  - ссылка на данные - https://disk.yandex.ru/d/JRT1Q5WP3NzGMQ, hash-суммы *.npy файлов есть в slides.md
